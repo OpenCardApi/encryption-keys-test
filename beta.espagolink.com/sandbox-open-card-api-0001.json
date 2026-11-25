@@ -1,0 +1,8 @@
+{
+  "e": "AQAB",
+  "kty": "RSA",
+  "alg": "RSA-OAEP-256",
+  "n": "lL-vymY0cRIef-AnSrfkw51rMcwt1ESmzeFfqT0lRiFbD_hTiNcxEXpFbN7JKhjbEiVme3nyZjUGdVpkRTbtN715qBTMhizBr4ocvKIwSncQ2MV7FWIT44JwDT6IXVOznQWIVvldmw5XSxZ5InaIqUAjbSbwOC-S8bpbjGo53KqVd0dtGmethFiUwg2hv9dtgdQuoC5W_F36zZa1h46eKj9JS2oO5_LWz-hQp0PKfDBrWvy17-D8XYtSX8ymxnEOZoh6_BrAnMbKt5SfE4LHbz1XWQT5hzWz3jhld3Iz66lbOPvaswsDzOMp2ZZjLJEFkt2qy78iPEI5ffThKs5ffUPThWKMlpca4m6Ar4WcLtZVAJ7R-ruCz_BHV8PGmaD0ns-bFgDGQ5EUu1NZ3hEdc7a6-dVLpetxirK-zZ14672ECrV3ZDKx5CETItRljEOWmim-oUH7v1nWKH2qCbaGiCHGKRcIQCH-kP1ob1OY7pZ8B0LQZs8Sal-vkYDq_B1V",
+  "kid": "sandbox-open-card-api-0001",
+  "use": "enc"
+}
